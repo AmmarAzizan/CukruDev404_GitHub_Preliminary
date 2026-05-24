@@ -13,12 +13,12 @@
 - 💳 **Expense Tracker** — Add, edit, and delete expenses with category chips, date picker, and optional notes
 - 🧾 **Receipt Scanner** — Scan physical receipts using Google ML Kit OCR; auto-extracts amount, merchant, and date (fully offline)
 - 📊 **Dashboard** — Monthly spending overview with interactive charts, recent transactions, streak chip, and profile shortcut
-- 🗂️ **Budget Planner** — AI-generated (Gemini) or locally computed budget breakdown per category; syncs category list to Add Expense screen
-- ❤️ **Financial Health Score** — Monthly score (0–100) based on budget adherence, saving progress, and spending consistency; includes trend and personalised tips
-- 🔔 **Overspending Alerts** — Local push notifications when a category hits 80% or 100% of its budget; tapping notification navigates to Profile
+- 🗂️ **AI Budget Planner** — Uses Gemini AI to generate a personalised monthly budget breakdown based on the user's profile type, income level, and saving target; category list syncs automatically to the Add Expense screen
+- ❤️ **Financial Health Score** — Monthly score (0–100) based on budget adherence, saving progress, and spending consistency; includes trend comparison and personalised tips
+- 🔔 **Overspending Alerts** — Local push notifications when a category hits 80% or 100% of its budget; tapping the notification navigates directly to Profile
 - 🔥 **Rewards & Streak System** — TikTok-style daily streak tracking; badges for milestones (First Step, 7-Day, 30-Day Streak, Budget Master, Saving Hero, Health Champion)
-- 💡 **Smart Suggestions** — Local algorithm generates 2–3 personalised spending tips per month based on actual spending data (no API required)
-- 💰 **Earn Extra Income** — Profile-aware gig card recommendations (Grab, Lalamove, Fiverr, Carousell, Upwork); highlighted with warning banner when overspending is detected
+- 💡 **AI Smart Suggestions** — AI-powered engine analyses the user's actual spending patterns and generates 2–3 personalised money-saving tips each month
+- 💰 **AI Earn Extra Income** — AI recommends relevant gig opportunities (Grab, Lalamove, Fiverr, Carousell, Upwork) based on the user's profile type and highlights them with a warning banner when overspending is detected
 
 ---
 
