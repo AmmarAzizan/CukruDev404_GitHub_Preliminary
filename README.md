@@ -233,6 +233,15 @@ The `.env` file is listed in `.gitignore` and will not be committed to the repos
 
 ---
 
+## AI Tools Used
+
+| Tool | Purpose |
+|---|---|
+| **Claude Code** (Claude Sonnet 4.6 by Anthropic) | Primary development assistant — used throughout the entire build to generate, refactor, and debug Flutter/Dart code, design Firestore schema, write providers, services, widgets, and documentation |
+| **Google Gemini 2.0 Flash Lite** | In-app AI feature — generates personalised monthly budget breakdowns based on the user's profile type and budget inputs (falls back to a local algorithm when API key is not set) |
+
+---
+
 ## Team
 
 **CukruDev404** — Hackathon UMP 2026
